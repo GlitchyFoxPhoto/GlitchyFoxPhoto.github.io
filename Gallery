@@ -1,0 +1,4 @@
+
+cd glitchyfoxphoto.github.io
+
+echo "Hello World" > index.html
